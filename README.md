@@ -1,11 +1,8 @@
 <h3 align="left">About Me :</h3>
-
 <p align="left">I'm Rohan Dagale<br>Full Stack MERN Developer</p>
 
-<br></br>
+<br>
 <h3 align="left">Tech :</h3>
-
-
 <div align="left">
   <img width="26" src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img />
