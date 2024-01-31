@@ -1,13 +1,10 @@
 <h3 align="left">About Me :</h3>
 
-###
-
 <p align="left">I'm Rohan Dagale<br>Full Stack MERN Developer</p>
 
 ###
 <br></br>
 <h3 align="left">Tech :</h3>
-
 ###
 
 <div align="left">
