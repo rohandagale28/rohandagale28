@@ -2,10 +2,10 @@
 
 <p align="left">I'm Rohan Dagale<br>Full Stack MERN Developer</p>
 
-###
 <br></br>
 <h3 align="left">Tech :</h3>
-###
+
+
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
